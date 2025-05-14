@@ -4,5 +4,5 @@ import react from '@vitejs/plugin-react'
 // https://vite.dev/config/
 export default defineConfig({
   plugins: [react()],
-  base: '/apple-clone-react/', // Match your GitHub Pages path
+  base: '/apple-react/', // Match your GitHub Pages path
 })
