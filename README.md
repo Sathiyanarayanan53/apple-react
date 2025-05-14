@@ -1,12 +1,36 @@
-# React + Vite
+# 🍏 Apple-React
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A responsive web application that emulates Apple's website interface, built with React.
 
-Currently, two official plugins are available:
+## 🔍 Overview
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+This project showcases Apple products and services with a sleek design and smooth animations, aiming to replicate the aesthetic and user experience of Apple's official website.
 
-## Expanding the ESLint configuration
+## 🚀 Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- **Responsive Design** – Works seamlessly across all devices.
+- **Interactive UI** – Built with reusable React components.
+- **Modern Styling** – Uses Tailwind CSS to achieve Apple’s signature minimalist style.
+- **Smooth Animations** – Powered by GSAP for high-performance motion effects.
+- **3D Elements** – Integrates Three.js for added visual depth.
+
+## 🛠 Technologies Used
+
+- [React](https://reactjs.org/)
+- [Tailwind CSS](https://tailwindcss.com/)
+- [GSAP](https://greensock.com/gsap/)
+- [Three.js](https://threejs.org/)
+
+## 🌐 Live Demo
+
+👉 [Click here to view the live project](https://sathiyanarayanan53.github.io/apple-react/)
+
+
+## 📦 Installation
+
+Clone the repository and install dependencies:
+
+```bash
+git clone https://github.com/sathiyanarayanan53/apple-react.git
+cd apple-react
+npm install
